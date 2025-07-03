@@ -1,4 +1,4 @@
-🧪 IOC Extraction Tool for Threat Intel Analysts Version 1-4 (changes listed below)
+🧪 IOC Extraction Tool for Threat Intel Analysts Version 4 (changes listed below)
 
 This script automates the extraction of email senders and refanged URLs from .xlsx files used in threat intelligence reporting. It’s tailored for analysts working with consolidated IOC collections, especially those formatted with columns like Email_Sender and FE_URL.
 
